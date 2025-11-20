@@ -1,0 +1,8 @@
+{
+  "name": "Resume Roast & Rescue",
+  "description": "A brutal yet helpful AI career consultant. Roast your resume with a cynical recruiter persona, fix it with an elite career coach, practice interviews with real-time voice AI, and generate professional assets.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
